@@ -75,3 +75,7 @@
   justify-content: center;
   align-items: center;
 }
+
+.quizz__results p {
+  margin-top: 20px;
+}
