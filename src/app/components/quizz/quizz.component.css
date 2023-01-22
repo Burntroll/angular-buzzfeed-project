@@ -10,11 +10,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 10px;
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
 
 .quizz__logo h3 {
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .quizz__questions {
